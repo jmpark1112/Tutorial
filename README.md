@@ -1,2 +1,3 @@
-# Test_Project
-To test and learn GitHub Function.
+# Tutorial
+Tutorial repository
+
